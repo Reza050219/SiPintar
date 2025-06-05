@@ -1,2 +1,2 @@
 # SiPintar
-Tugas Yoganteng Pak Ifnu Tea..
+Tampilan UI/UX SiPintar
